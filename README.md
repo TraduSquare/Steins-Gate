@@ -1,7 +1,7 @@
 # Steins-Gate
 Traducción Steins;Gate al castellano (No sirve la versión de JAST USA ni la de Steam)
 
-IMPORTANTE: Para el correcto funcionamiento del parche en ambos casos, se debe eliminar la carpeta situada en la siguiente dirección “C:\Users\[Usuario]\AppData\Roaming\Nitroplus”. Se trata de una carpeta oculta por lo que quizá debáis tener permisos de administrador para activar su visualización y eliminarla. Esto eliminará las partidas guardadas que tengas del juego en japones o inglés o una versión anterior del parche. (No pueden ser utilizadas)
+<b>IMPORTANTE: Para el correcto funcionamiento del parche en ambos casos, se debe eliminar la carpeta situada en la siguiente dirección “C:\Users\[Usuario]\AppData\Roaming\Nitroplus”. Se trata de una carpeta oculta por lo que quizá debáis tener permisos de administrador para activar su visualización y eliminarla. Esto eliminará las partidas guardadas que tengas del juego en japones o inglés o una versión anterior del parche. (No pueden ser utilizadas)</b>
 
 IMPORTANTE2: Para jugar se debe ejecutar el archivo “STEINSGATE-patched.exe” teniendo el idioma para programas no UNICODE en japonés o en su defecto usando Applocale (o en versiones más recientes de Windows “Locale Emulator”). También os recomendamos desactivar los antivirus al ejecutar el parche, pues los análisis que hacen al ejecutar un .exe pueden hacer que el programa falle. Si no os fiais, podéis analizar el .exe manualmente con el antivirus, y luego antes de instalarlo, lo desactiváis. El ejecutable está 100% libre de virus, os lo aseguramos.
 
